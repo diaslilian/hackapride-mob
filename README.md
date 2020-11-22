@@ -44,6 +44,7 @@ Projeto ainda está em fase de implementações.
 - [ ] Tela de localização
 - [ ] Componente autorizar a localização
 - [ ] Componente localização autorizada
+- [ ] Adicionar todos os ícones
 
 ## :information_source: COMO USAR:
 
