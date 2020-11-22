@@ -10,6 +10,7 @@ import {
 
 import Home from "../screens/Home";
 import Jobs from "../screens/Jobs";
+import Courses from "../screens/Courses";
 
 const { Navigator, Screen } = createBottomTabNavigator();
 
@@ -57,7 +58,7 @@ function MainTabs() {
       />
       <Screen
         name="Cursos"
-        component={View}
+        component={Courses}
         options={{
           tabBarLabel: "",
           tabBarIcon: ({ color, size, focused }) => {
