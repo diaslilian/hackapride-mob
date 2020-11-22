@@ -1,8 +1,3 @@
-<h1 align="center">
-    <img src="./assets/logohp.svg" width="25%"></img> 
-    
-</h1>
-
 <h3 align="center">Projeto desenvolvido no HackaPride-2020</h3>
 <br>
 
@@ -32,6 +27,23 @@ Acessar o layout da aplicação utilizando a ferramenta - [Figma](https://www.fi
 - [Expo-google-fonts](https://github.com/expo/google-fonts/tree/master/font-packages/poppins#readme)
 
 <br>
+
+Projeto ainda está em fase de implementações.
+
+- [x] Tela de Login
+- [x] Tela de Cadastro
+- [x] Tela de Inicial
+- [x] Tela de Todas as vagas
+- [x] Tela de Todos os cursos
+- [x] Menu de navegação
+- [ ] Tela de editar perfil
+- [ ] Tela de vagas recomendadas
+- [ ] Tela de cursos recomendados
+- [ ] Tela de vaga selecionada
+- [ ] Tela de curso selecionado
+- [ ] Tela de localização
+- [ ] Componente autorizar a localização
+- [ ] Componente localização autorizada
 
 ## :information_source: COMO USAR:
 
