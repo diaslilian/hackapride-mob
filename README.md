@@ -1,4 +1,14 @@
-<h3 align="center">Projeto desenvolvido no HackaPride-2020</h3>
+<h2 align="center">Projeto desenvolvido no HackaPride-2020</h2>
+<br>
+
+<h3 align="center">Nosso projeto ficou em segundo lugar no evento.</h3>
+
+<h3 align="center">
+    <img src="./src/assets/image/segundolugar.png" width="50%">
+    </img>
+    </h3>
+
+<br>
 <br>
 
 ## :rainbow: Sobre:
